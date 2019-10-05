@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 60px;
+    width: 100%;
+    background: grey;
+    display: block;
+    
+}
+header img{
+    float:left;
+    height: 100px;
+    width: 100px;
+    background: greenyellow;
+    margin: 10px;
+    border: 2px solid red;
+    padding: 10px;
+}
+header .home_page{
+    color: whitesmoke;
+    border: 2px solid red;
+    margin: 10px;
+}

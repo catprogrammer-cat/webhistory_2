@@ -1,0 +1,105 @@
+/* style for all html */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* style for header and nav from header*/
+header{
+    border: 1px solid greenyellow;
+    font-size: 50px;
+    text-align: center;
+    background: green;
+
+}
+
+header nav{
+    margin: 5px;
+    border: 3px solid green;
+    font-size: 30px;
+    text-align: center;
+    background: greenyellow;
+    
+}
+
+/* style for section which is locate on the left side  */
+section{
+    float:left;
+    width: 60%;
+    background-color: blueviolet;
+    font-size: 30px;
+}
+/* style for header of section (look up) */
+section header{
+    margin: 5px;
+    border: 2px solid blue;
+    background-color: orange;
+    font-size: 30px;
+}
+/* style for acrticle of section (look up) */
+section article{
+    text-align: center;
+    font-size: 25px;
+    margin: 6px;
+    border: 2px solid blue;
+    background: goldenrod;
+}
+/* style for header of article (look up) */
+section article header{
+    text-align: center;
+    font-size: 25px;
+    margin: 6px;
+    border: 2px solid blue;
+    background: gold
+}
+
+section article p{
+    text-align: center;
+    font-size: 20px;
+    margin: 6px;
+    border: 2px solid blue;
+    background: gold
+}
+
+section article .menu{
+   
+    margin: 6px;
+}
+section article .menu p{
+    display: inline-block;
+
+    text-align: center;
+    font-size: 20px;
+
+    width: 70%;
+    height: 35px;
+    
+    border: 2px solid blue;
+    background: #3a971e
+}
+section article .menu aside{
+    display: inline-block;
+
+    text-align: center;
+    font-size: 20px;
+
+    width: 25%;
+    height: 35px;
+
+    border: 2px solid blue;
+    background: #3a971e
+}
+section footer {
+    background: rgb(42, 226, 180);
+    margin: 6px;
+    border: 2px solid black;
+
+
+}
+
+
+
+ 
+ 
+ 

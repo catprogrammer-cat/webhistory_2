@@ -1,0 +1,26 @@
+*{
+    padding: 10px;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.block{
+    border: 2px solid red;
+    padding: 10px;
+    background: green;
+    
+}
+.block img{
+    height: 400px;
+    float: right;
+    
+}
+
+.block p{
+    background: greenyellow;
+    clear: both;
+    
+}
+
+

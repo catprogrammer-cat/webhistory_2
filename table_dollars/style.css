@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+}
+
+/* width */
+ .col_euro_doll , .col_lei , .col_grn , .col_rub , .col_transrub{
+    width: 19%;
+    
+} 
+
+/* euro */
+.col_euro_doll{
+    
+    border: 2px solid rgba(0, 255, 157, 0.911);
+    display: inline-block;
+    background: rgba(9, 245, 225, 0.445);
+    font-family: 'Roboto', sans-serif;
+}
+.str_euro_doll{
+    color: rgba(0, 0, 0, 0.733);
+    font-family: 'Roboto', sans-serif;
+}
+.col_euro_doll .num{
+    border: 1px solid rgb(29, 0, 194);
+    display: block;
+    text-align: center;
+    
+}
+/* lei */
+.col_lei{
+    
+    border: 2px solid greenyellow;
+    display: inline-block;
+    background: rgba(192, 230, 22, 0.445);
+    font-family: 'Roboto', sans-serif;
+}
+.str_lei{
+    color: rgba(0, 0, 0, 0.733);
+    font-family: 'Roboto', sans-serif;
+}
+.col_lei .num{
+    border: 1px solid green;
+    display: block;
+    text-align: center;
+}
+
+/* grn */
+.col_grn{
+    
+    border: 2px solid rgb(40, 83, 223);
+    display: inline-block;
+    background: rgba(49, 121, 255, 0.445);
+    font-family: 'Roboto', sans-serif;
+}
+.str_grn{
+    color: rgba(0, 0, 0, 0.733);
+    font-family: 'Roboto', sans-serif;
+}
+.col_grn .num{
+    border: 1px solid rgb(29, 0, 194);
+    display: block;
+    text-align: center;
+}
+
+/* rub */
+.col_rub{
+    
+    border: 2px solid greenyellow;
+    display: inline-block;
+    background: rgba(192, 230, 22, 0.445);
+    font-family: 'Roboto', sans-serif;
+}
+.str_rub{
+    color: rgba(0, 0, 0, 0.733);
+    font-family: 'Roboto', sans-serif;
+}
+.col_rub .num{
+    border: 1px solid green;
+    display: block;
+    text-align: center;
+}
+
+/* trans rub */
+.col_transrub{
+    
+    border: 2px solid rgb(40, 83, 223);
+    display: inline-block;
+    background: rgba(49, 121, 255, 0.445);
+    font-family: 'Roboto', sans-serif;
+}
+.str_transrub{
+    color: rgba(0, 0, 0, 0.733);
+    font-family: 'Roboto', sans-serif;
+}
+.col_transrub .num{
+    border: 1px solid rgb(29, 0, 194);
+    display: block;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
